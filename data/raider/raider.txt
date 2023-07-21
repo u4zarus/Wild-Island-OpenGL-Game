@@ -1,0 +1,12 @@
+#DownloadModelFormat: OBJ
+#GeometryFile: raider.obj
+#MaterialFile: raider.mtl
+#PreviewFile: raider.jpg
+#OtherFiles: raider.bmp
+#DownloadedFromURL:   www.scifi-meshes.com
+#DateOfDownload:   20.5.2008
+#CreatedBy:  Coxxon
+#CreatedIn:    3DS MAX
+#UploadedBy: Michal Luk·Ë
+#Description: Cylon Raider
+#NumberOfPolygons: 2 686

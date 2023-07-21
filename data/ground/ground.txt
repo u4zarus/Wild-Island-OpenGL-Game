@@ -1,0 +1,1 @@
+#DownloadModelFormat: OBJ#GeometryFile: ground.obj#MaterialFile: ground.mtl#PreviewFile: ground.jpg#OtherFiles: ground_tex.jpg#DownloadedFromURL: ---#DateOfDownload: ---#CreatedBy: Hung Pham#CreatedIn: Blender 2.92#UploadedBy: Hung Pham#Description: Model of textured world plane#NumberOfPolygons: 32768

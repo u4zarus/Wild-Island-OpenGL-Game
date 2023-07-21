@@ -1,0 +1,13 @@
+#DownloadModelFormat: OBJ
+#GeometryFile: PalmTree.obj
+#MaterialFile: PalmTree.mtl
+#PreviewFile: PalmTree.png
+#OtherFiles: PalmTree.tga
+#DownloadedFromURL: https://free3d.com/3d-model/-palm-tree-v1--283200.html
+#DateOfDownload: 23.06.2021
+#CreatedBy: printable_models
+#CreatedIn: 3ds Max
+#UploadedBy: Jiří Povolný
+#Description: Palm tree
+#NumberOfPolygons: 67408
+

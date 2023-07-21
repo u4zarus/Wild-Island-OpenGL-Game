@@ -1,0 +1,12 @@
+#DownloadModelFormat: OBJ
+#GeometryFile: rubberduck.obj
+#MaterialFile: rubberduck.mtl
+#PreviewFile: rubberduck.jpg
+#OtherFiles: RD_Far.tga
+#DownloadedFromURL: www.rapidshare.de
+#DateOfDownload: 3.3.2007            
+#CreatedBy: Nezjištìno
+#CreatedIn: 3D Studio
+#UploadedBy: Jan Klusák
+#Description: Yellow Rubberduck model
+#NumberOfPolygons: 20480

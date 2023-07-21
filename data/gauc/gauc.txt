@@ -1,0 +1,12 @@
+#DownloadModelFormat: OBJ
+#GeometryFile: gauc.obj
+#MaterialFile: gauc.mtl
+#PreviewFile: gauc_prev.jpg
+#OtherFiles: gauc.jpg,wood2.jpg
+#DownloadedFromURL:   
+#DateOfCreate: 17.5.2007
+#CreatedBy:  Martin Adam
+#CreatedIn:    3D Max
+#UploadedBy: Martin Adam
+#Description: model gauce
+#NumberOfPolygons: 5990

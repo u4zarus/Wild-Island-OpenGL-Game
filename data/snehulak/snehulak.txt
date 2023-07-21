@@ -1,0 +1,12 @@
+#DownloadModelFormat: OBJ
+#GeometryFile: snehulak.obj
+#MaterialFile: snehulak.mtl
+#PreviewFile: preview.jpg
+#OtherFiles: texturaSnih.jpg,snehulak.txt
+#DownloadedFromURL:   www.sirall.com
+#DateOfDownload:   4.6.2007
+#CreatedBy:  Michal (Sirall) Èervenka
+#CreatedIn:    3D Studio Max 9
+#UploadedBy: Michal (Sirall) Èervenka
+#Description: Model snìhuláka
+#NumberOfPolygons: 1158
